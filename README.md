@@ -1,5 +1,3 @@
-# mangata
-RuesCommunity
 {
   "name": "Anaraydinli",
   "website": "http://www.github.com/anaraydinli55",
